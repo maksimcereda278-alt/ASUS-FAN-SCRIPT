@@ -30,7 +30,7 @@ def main():
             time.sleep(3)
             
         elif choice == '3':
-            print("Выход...")
+            print("Exit...")
             break
 
 if __name__ == "__main__":
